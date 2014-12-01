@@ -1,0 +1,7 @@
+{
+	"name": "VariableButton",
+	"description": "Use buttons to change the value of a variable",
+	"type": "visualization",
+	"version": 1,
+	"author": "Asier Fernandez aeo@qlik.com"
+}
